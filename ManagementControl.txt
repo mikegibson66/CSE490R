@@ -1,0 +1,27 @@
+Stories: As___________ I want______________ so____________________.
+
+Complexity not time
+Test Driven Development
+
+Requirements               v.         Stories
+Limited Updates                        Consistent Updates
+Cars, Planes, Hardware                 Mobile, Web, PC
+
+EPIC STORIES (Implement a feature)
+   Front End, Back-end, Database
+   Features like user-login
+
+Program Development Requirements Document by end of module
+
+Model View Controller
+
+Creating, using, updating Repository
+
+Three-letter Acronyms
+
+   SCI - Software Configuration Item
+   ECP - Engineering Change Proposal
+   SCCB- Software Configuration Control Board
+   PSL - Program Support Libraries
+   DO  - Design Object in Development Domain
+   CCC - Change & Configuration Control Environment
