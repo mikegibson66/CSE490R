@@ -1,0 +1,74 @@
+Design Doc  -  The how
+    - Title Page
+    - Revision History
+    - Table of Contents
+    -Front-End - Wire Frames
+        -login screen
+        -create project
+        -create tasks within projects
+        -interface with Back-end - definitions
+    -Backend - Workflows
+        -login
+        -create project
+        -create tasks within projects
+        -Database Queries/interfaces
+    -Dabase - Tables
+        -What it stores
+        -NoSQL - Document Style
+            Information
+            What is the CRUD policy
+
+wk 6
+    Fix SRS
+    Design Document
+    Reoganize Groups
+    Slides from Acorn
+
+TDD - 
+
+    TDD is a prctice of Agile, specifically XP
+    Develop the test first, before start coding
+
+    Unit Test --> Code --> Refactor --> repeat
+
+  Steps:
+    Based on Behavior Driven Design, testing for behavior first.
+    Write a failing test for new feature first.
+        -Test will fail because feature doesnt' exist.
+    Refactor code to make good design
+  Tests help make sure nothing was broken.
+
+Test Driven                                    Behavior Driven
+    • Developer Implementation                       • Team Implementation
+    • Programming language                           • Natural language
+    • White Box                                      • Black Box
+    • Scope: Tests functions                         • Scope: Tests End-to-end
+Works well with Stories
+How to write a test plan
+    • History
+    • Elements / Pattern of test case          • Test Steps
+        • Prefix: ID                              • Action: Specific Logical Sequence
+        • Description/Summary                     • Results / Verify
+        • Prerequisites                           • Pass/fail
+        • Category / Component
+        • Action / PoC
+        • Requirement / Story
+        • Test Steps
+
+Branches - Main <-- Do not touch
+    -Delivery0.5wk5-06
+        -Front-End
+        -Back-End
+        -Database
+
+Go through Instructions in Acorn Nursery Documentation
+
+Design Document has three sections
+    -CRUD  
+    -Storage of Database
+        -NoSQL 
+        -What is the CRUD policy?
+
+Interfaces include    FE <--> BE <--> DB
+
+Looked at Mockups/Prototype of the Acorn Nursery
